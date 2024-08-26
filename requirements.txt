@@ -1,0 +1,9 @@
+Flask
+python-dotenv
+langchain
+langchain-huggingface
+langchain-pinecone
+langchain-groq
+langchain-core
+requests
+pinecone-client
